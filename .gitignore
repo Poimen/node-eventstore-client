@@ -36,7 +36,8 @@ node_modules
 .idea/workspace.xml
 .vscode
 
-lib/
+# Just for github release branching on npm
+#lib/
 .eslintrc.json
 jsconfig.json
 docs/
